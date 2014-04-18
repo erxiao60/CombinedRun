@@ -1,0 +1,16 @@
+to start 
+check map file : ./map/map_cosmic,BGO.infor;
+incude the channel map ,FEE ID ,FEE order,and BGO constants 
+read the file : ./map/note
+
+compile :
+      for Cosmic.exe just :make
+      for others xxx.exe : make -f xxxMake  
+
+run:
+for raw data ./Compress.exe yyy.dat
+for others ./xxx.exe ./Raw2ROOT/yyy.root
+
+results:
+raw root file in ./Raw2ROOT
+xxx.eps ,.xxx.txt printed in folder named xxx

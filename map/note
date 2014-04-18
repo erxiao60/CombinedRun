@@ -1,0 +1,15 @@
+
+note for BGO ECal test:
+
+//~~~~~~~~~~~~~~~
+map_cosmic:8layers
+1:totalChannnel 2:Layer(0-) 3:Side(0,1) 4:Bar(0-23(22,23 are spare channel)) 5:Dy 6:FEE_ID 7:FEE_Chan  
+
+//~~~~~~~~~~~~~~~
+BGO.infor
+define the constants like Nlayer,Nbar...
+also for FEE_ID 
+
+//~~~~~~~~~~~~~~~
+if you try to run these code ,first to make sure map and BGO.infor are right!
+ 

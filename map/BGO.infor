@@ -1,0 +1,7 @@
+information of BGO constants and FEE cards:
+Nlayer,Nbar(22+2(spare)),Ndy,Nside,N_FEE
+14  24  3  2  16
+FEE ID:
+16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+FEE Channel:
+144 144 72 144 144 144 72 144  144 144 72 144 144 144 72 144
